@@ -3,7 +3,7 @@
 
 ---
 <span style="font-size: smaller;"><strong> Description </strong> </span>
-In our Project 8 we called the IMDB API to search for Movies and retrieve the data (if there is any), then populates an XML file. W also allow the user to share the icon, visit the IMDP page themselves, and send us feedback.
+In our Project 8 we called the IMDB API to search for Movies and retrieve the data (if there is any), then populates an XML file. We also allow the user to share the icon, visit the IMDP page themselves, and send us feedback.
 <br>
 
 This app allows for a user to:
@@ -52,7 +52,7 @@ Here's a walkthrough of a few translations:
 GIF created with [CloudConvert](https://cloudconvert.com/).
 
 UI Challenges:
-- Connecting the link as clickable passing the data in from the JSON file and handling correctly
+- Connecting the link as clickable passing the data in from the JSON file and handling it correctly
 - UI was relatively simple so not many errors followed
 
 Backend Challenges:
