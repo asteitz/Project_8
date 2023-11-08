@@ -3,7 +3,8 @@
 
 ---
 <span style="font-size: smaller;"><strong> Description </strong> </span>
-In our efforts to complete Project 07 we implemented an interactive Ui (User Interface) that allows the user to add notes utilizing Firebase's Realtime Database.
+In our Project 8 we called the IMDB API to search for Movies and retrieve the data (if there is any), then populates an XML file. W also allow the user to share the icon, visit the IMDP page themselves, and send us feedback.
+<br>
 
 This app allows for a user to:
 - Search for a movie
@@ -16,9 +17,9 @@ was valid, we parsed the data from the JSON file and displayed the values in an 
 allowed the user to share this data or click the link to take them to the IMDB page.
 <br>
 <br>
-When taken to the main page, you are able to enter in a movie title, upon hitting search the app takes you to a page that 
-holds the information, the poster, and ability to share the movie. Additionally, if you feel you cana lso submit feedback by pressing
-the button up in the ribbon where you will be taken to gmail or any other messaging platform you have installed on your emulator.
+When taken to the main page, you are able to enter a movie title, upon hitting search the app takes you to a page that 
+holds the information, the poster, and the ability to share the movie. Additionally, if you feel you can also submit feedback by pressing
+the button up in the ribbon where you will be taken to Gmail or any other messaging platform you have installed on your emulator.
 <br>
 <br>
 In the case that you submit an invalid movie title, the contents will not populate and you will be told that the IMDB page does not support that movie.
@@ -51,7 +52,7 @@ Here's a walkthrough of a few translations:
 GIF created with [CloudConvert](https://cloudconvert.com/).
 
 UI Challenges:
-- Connecting the link as clickable and passing the data in from the JSON file and handling correctly
+- Connecting the link as clickable passing the data in from the JSON file and handling correctly
 - UI was relatively simple so not many errors followed
 
 Backend Challenges:
