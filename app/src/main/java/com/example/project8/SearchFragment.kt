@@ -36,6 +36,14 @@ class SearchFragment: Fragment() {
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
+    /**
+     * Overrides the onCreateView method to initialize and set up the UI for the fragment.
+     *
+     * @param inflater           The LayoutInflater object that can be used to inflate any views in the fragment.
+     * @param container          If non-null, this is the parent view that the fragment's UI should be attached to.
+     * @param savedInstanceState If non-null, this fragment is being re-constructed from a previous saved state.
+     * @return The root view of the fragment's layout.
+     */
         _binding = FragmentSearchBinding.inflate(inflater, container, false)
         val view = binding.root
 
