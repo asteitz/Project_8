@@ -47,7 +47,7 @@ The following **required** functionality is completed:
 Watch a demonstration of the different options when working with the notes app in the gif available on Github
 Here's a walkthrough of a few translations:
 <br>
-![Recording in GIF of Walk Through](https://github.com/asteitz/Project_8/blob/master/app/src/main/java/com/example/project8/Project8Video.gif)
+![Recording in GIF of Walk Through](https://github.com/asteitz/Project_8/blob/master/app/src/main/java/com/example/project8/convert.gif)
 
 GIF created with [CloudConvert](https://cloudconvert.com/).
 
